@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="47.312504"
-   viewBox="0 -960 9910.0128 1892.5003"
-   width="247.75032"
+   height="80"
+   viewBox="0 -960 11200 3200.0002"
+   width="280"
    fill="#1f1f1f"
    version="1.1"
    id="svg1"
@@ -27,18 +27,18 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="76.01398"
-     inkscape:cy="69.119688"
+     inkscape:cx="148.31565"
+     inkscape:cy="35.532116"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5"
+     inkscape:current-layer="g101"
      inkscape:export-bgcolor="#f9fafbff" /><g
      id="g50-7-3"
      style="fill:#2563eb;fill-opacity:1"
-     transform="matrix(1.1201261,0,0,1.1201261,1730.2378,-3960.8373)"><g
+     transform="matrix(1.1201261,0,0,1.1201261,2375.2317,-3307.0873)"><g
        id="g101"
        transform="translate(370.22836,239.04074)"><g
          id="g102"
@@ -50,7 +50,7 @@
            id="path44-1-9"
            style="fill:#1e3a87;fill-opacity:1;stroke-width:0.972389" /></g><g
          id="g5"
-         transform="translate(577.25077,583.63966)"><g
+         transform="translate(577.25087,583.63964)"><g
            id="g1"
            transform="translate(575.82243,583.63961)"><g
              id="g3"
