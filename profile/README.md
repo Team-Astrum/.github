@@ -1,11 +1,17 @@
-# Gruppo 16 - Progetto di Ingegneria del Software
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/Assets/logo-bg-white.svg">
+    <img src="/Assets/logo.svg" height="150" alt="Logo Astrum">
+  </picture>
+</p>
 
-| Membro          | N° matricola |
-| -------------   | ------------ |
-| Corrado Bacco   | 2148615      |
-| Gianluca Bacco  | 2111937      |
-| Gianluca Brotto | 2148626      |
-| Matteo De Col   | 2148619      |
-| Filippo De Guio | 2113177      |
-| Samuele Gobbi   | 2148004      |
-| Thomas Morettin | 2111001      |
+#
+
+L'organizzazione **Astrum** è il gruppo n° 16 del corso di **Ingegneria del Software [SC01103936]** presso l'Università di Padova (L.T. Informatica, A.A. 2026/27).
+
+## Composizione del team
+Il nostro team è formato dai seguenti studenti:
+| <img src="https://github.com/mrobotcb30.png?size=64" width=64> | <img src="https://github.com/GianlucaBacco.png?size=64" width=64> | <img src="https://github.com/Gianluca-Br.png?size=64" width=64> | <img src="https://github.com/vSmatt.png?size=64" width=64> | <img src="https://github.com/degghi24.png?size=64" width=64> | <img src="https://github.com/Smoker1210.png?size=64" width=64> | <img src="https://github.com/thomasmorettin.png?size=64" width=64> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Corrado Bacco](https://github.com/mrobotcb30) | [Gianluca Bacco](https://github.com/GianlucaBacco) | [Gianluca Brotto](https://github.com/Gianluca-Br) | [Matteo De Col](https://github.com/vSmatt) | [Filippo De Guio](https://github.com/degghi24) | [Samuele Gobbi](https://github.com/Smoker1210) | [Thomas Morettin](https://github.com/thomasmorettin) |
+| 2148615 | 2111937 | 2148626 | 2148619 | 2113177 | 2148004 | 2111001 |
