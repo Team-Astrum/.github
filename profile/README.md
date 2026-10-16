@@ -1,12 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/Assets/logo-bg-white.svg">
-    <img src="/Assets/logo.svg" height="150" alt="Logo Astrum">
-  </picture>
-</p>
-
-#
-
 L'organizzazione **Astrum** è il gruppo n° 16 del corso di **Ingegneria del Software [SC01103936]** presso l'Università di Padova (L.T. Informatica, A.A. 2026/27).
 
 ## Composizione del team
