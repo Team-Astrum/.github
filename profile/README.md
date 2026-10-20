@@ -1,6 +1,6 @@
 L'organizzazione **Astrum** è il gruppo n° 16 del corso di **Ingegneria del Software [SC01103936]** presso l'Università di Padova (L.T. Informatica, A.A. 2026/27).
 
-## Composizione del team
+# Composizione del team
 Il nostro team è formato dai seguenti studenti:
 | <img src="https://github.com/mrobotcb30.png?size=64" width=64> | <img src="https://github.com/GianlucaBacco.png?size=64" width=64> | <img src="https://github.com/Gianluca-Br.png?size=64" width=64> | <img src="https://github.com/vSmatt.png?size=64" width=64> | <img src="https://github.com/degghi24.png?size=64" width=64> | <img src="https://github.com/Smoker1210.png?size=64" width=64> | <img src="https://github.com/thomasmorettin.png?size=64" width=64> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
